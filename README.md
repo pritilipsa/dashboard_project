@@ -4,7 +4,7 @@ Project Overview
 This project is a comprehensive data analysis of an e-commerce store's sales and order data. The goal is to extract meaningful insights into sales performance, identify key customer segments, and understand operational trends. The findings are visualized to support data-driven decision-making for business growth and optimization.
 
 Key Insights
-Based on the initial analysis, here are the major findings:
+Based on the initial analysis
 
 Peak Seasonality: The highest sales and order volume occurs in April.
 
